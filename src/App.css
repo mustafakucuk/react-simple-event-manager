@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+}
+
+.event-list {
+    margin-top: 40px;
+}
+
+.pull-right {
+  float: right;
+}
+
+.event-item {
+    margin-bottom: 20px;
+}
